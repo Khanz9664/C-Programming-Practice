@@ -26,7 +26,7 @@ A collection of solved C programming problems, covering various concepts from ba
 To get a copy of this repository and run the programs locally:
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/C-Programming-Solutions.git
+git clone https://github.com/Khanz9664/C-Programming-Solutions.git
 
 # Navigate into the directory
 cd C-Programming-Solutions
