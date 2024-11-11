@@ -21,6 +21,7 @@ A collection of solved C programming problems, covering various concepts from ba
 3. Pointers and Memory Management
 4. Algorithms (Sorting, Searching)
 5. Recursion and Backtracking
+6. Data Structures (Stack, Queue, Linked List,...)
 
 ## Installation
 To get a copy of this repository and run the programs locally:
