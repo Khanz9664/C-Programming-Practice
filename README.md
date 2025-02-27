@@ -3,7 +3,7 @@
 
 ![C Language](https://img.shields.io/badge/Language-C-blue.svg) ![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 
-A collection of solved C programming problems, covering various concepts from basic to advanced levels. This repository is designed to showcase proficiency in C language and can serve as a learning resource for beginners and experienced programmers alike.
+This repository contains a collection of solved C programming problems that cover a range of concepts from basic to advanced levels. It is designed to demonstrate proficiency in the C language and can be a valuable learning resource for both beginners and experienced programmers.
 
 
 ## Features
